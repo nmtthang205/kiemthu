@@ -1,8 +1,5 @@
 # ĐÁNH GIÁ CHẤT LƯỢNG PHẦN MỀM TÍNH THUẾ THU NHẬP CÁ NHÂN (QLThueCaNhan)
 
-Báo cáo bài tập lớn môn: Đánh giá và kiểm định chất lượng phần mềm
-Trường Công nghệ Thông tin Phenikaa - Đại học Phenikaa
-
 ---
 
 ## 1. Thông tin chung
