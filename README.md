@@ -9,9 +9,9 @@ Trường Công nghệ Thông tin Phenikaa - Đại học Phenikaa
 
 - Đề tài: Đánh giá phần mềm tính thuế thu nhập cá nhân
 - Giảng viên hướng dẫn: TS. Trịnh Thanh Bình
-- Nhóm thực hiện: Nhóm 11 (Lớp: COUR01.LT3)
-- Danh sách thành viên nhóm:
-  1. Nguyễn Mạnh Thắng. MSV: 23010098
+- Nhóm thực hiện: Nhóm 15 (Lớp: CSE703010-1-1-26(COUR01.LT2))
+- Sinh viên thực hiện:
+  Nguyễn Mạnh Thắng MSV: 23010098
 
 ---
 
